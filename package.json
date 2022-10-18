@@ -1,0 +1,18 @@
+{
+  "name": "cookie-clicker-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "tdt",
+  "license": "MIT",
+  "type": "module",
+  "volta": {
+    "node": "16.18.0"
+  },
+  "dependencies": {
+    "puppeteer": "^18.2.1"
+  }
+}
